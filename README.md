@@ -3,3 +3,4 @@ This project is a brief site set up to demonstrate the tools we learned with HTM
 
 Demonstrated:
     - Basic git control
+    - HTML knowlege and website set up
